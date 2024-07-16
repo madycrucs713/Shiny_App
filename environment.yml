@@ -1,0 +1,17 @@
+name: my-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - plotly
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - r-base=4.0
+  - r-dplyr
+  - r-ggplot2
+  - r-reshape2
+  - r-tidyverse
+  - r-plotly
+  - r-stringr
