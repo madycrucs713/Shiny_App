@@ -8,6 +8,8 @@ dependencies:
   - pandas
   - matplotlib
   - scikit-learn
+  - seaborn
+  - statsmodels
   - r-base=4.0
   - r-dplyr
   - r-ggplot2
